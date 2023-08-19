@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1056497732488-h1427sugeio58djittr0qnt290jgth9o.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1056497732488</string>
+    <string name="google_api_key" translatable="false">AIzaSyC485qSN15o7-PMenvsTdKJdEhavJjsqQ4</string>
+    <string name="google_app_id" translatable="false">1:1056497732488:android:c7a781f171ec1cd0ae483d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC485qSN15o7-PMenvsTdKJdEhavJjsqQ4</string>
+    <string name="google_storage_bucket" translatable="false">socchatapp-8d615.appspot.com</string>
+    <string name="project_id" translatable="false">socchatapp-8d615</string>
+</resources>

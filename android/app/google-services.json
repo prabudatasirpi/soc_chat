@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1056497732488",
+    "project_id": "socchatapp-8d615",
+    "storage_bucket": "socchatapp-8d615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056497732488:android:c7a781f171ec1cd0ae483d",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056497732488-h1427sugeio58djittr0qnt290jgth9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC485qSN15o7-PMenvsTdKJdEhavJjsqQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056497732488-h1427sugeio58djittr0qnt290jgth9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
